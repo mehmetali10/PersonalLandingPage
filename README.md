@@ -1,2 +1,2 @@
 # PersonalWebsite
-https://mehmetali10.github.io/PersonalWebsite/
+https://mehmetali10.github.io/PersonalLandingPage/
